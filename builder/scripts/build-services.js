@@ -177,7 +177,14 @@ function updateHeadMeta(html, options) {
 
   return html;
 }
-
+function fixAssetPaths(html) {
+  return html
+    .replace(/href=["']css\//g, 'href="/css/')
+    .replace(/href=["']images\//g, 'href="/images/')
+    .replace(/src=["']js\//g, 'src="/js/')
+    .replace(/src=["']images\//g, 'src="/images/')
+    .replace(/url\(["']?images\//g, 'url("/images/');
+}
 function fixInternalLinks(html) {
   const linkMap = {
     "index.html": "/",
@@ -291,6 +298,7 @@ function buildServicePage(templateHtml, page) {
 
   html = removeServicesLoader(html);
   html = fixInternalLinks(html);
+  html = fixAssetPaths(html);
 
   html = updateHeadMeta(html, {
     title: page.seo?.title || `${h1} | ${BRAND_TITLE}`,
@@ -324,6 +332,7 @@ function buildStaticPage(page) {
   let html = fs.readFileSync(page.input, "utf8");
 
   html = fixInternalLinks(html);
+  html = fixAssetPaths(html);
 
   const canonical = getCanonical(page.output);
 
