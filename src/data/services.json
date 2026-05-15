@@ -1,0 +1,384 @@
+{
+  "defaultPage": "corporate_law",
+  "pages": [
+      {
+                                                        "_comment": "TRAFİK KAZALARI DAVALARI",
+  "slug": "trafik-kazasi-davalari",
+  "pageTitle": {
+        "bgImage": "images/trafik-banner.jpg",
+        "h1": "TRAFİK KAZALARI DAVALARI",
+        "breadcrumb": ["Ana Sayfa", "TRAFİK KAZALARI DAVALARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/trafik.jpg",
+          "alt": "TRAFİK KAZALARI DAVALARI"
+        },
+        "heading": "Trafik Kazaları Davalarının Temelinde Hakların Bilinçli Korunması",
+        "paragraphHtml": "Ticari hayat hızla akar; sözleşmeler imzalanır, alacaklar doğar, teslimatlar yapılır ve riskler çoğu zaman görünmez şekilde birikir. Bu akışın sağlıklı kalması, tarafların hak ve yükümlülüklerinin net biçimde tanımlanmasına bağlıdır. Çünkü belirsizlik; gecikme, ihtilaf ve mali kayıp üretir. <br><br>\n\nTicaret hukuku, sadece sorun çıktığında devreye giren bir “tamir takımı” değildir; doğru kurulduğunda, daha sorun oluşmadan sistemi stabil tutan bir altyapıdır. Sözleşme maddelerinin açık yazılması, teminatların doğru kurgulanması, ödeme vadelerinin ve teslim koşullarının netleştirilmesi; şirketin nakit akışını ve itibârını korur. <br><br>\n\nBu nedenle ticari süreçlerde ölçüsüz hız değil, kontrollü hız değerlidir. Hukuki öngörüyle ilerleyen işletme; pazarlıkta güç kazanır, uyuşmazlıkta avantaj sağlar ve büyüme dönemlerinde krizleri daha kolay absorbe eder.",
+        "listColumns": [
+          [
+            "Trafik hukuku, kazanın yalnızca fiziksel etkisini değil; bu nedenle her delil titizlikle değerlendirilir."
+          ],
+          [
+            "Kusur oranı, tazminatın temelidir; bu nedenle her delil titizlikle değerlendirilir. Eksik tutanak veya geç bildirim, tazminat kaybının en yaygın nedenlerindendir."
+          ],
+          [
+            "Eksik tutanak veya geç bildirim, maddi zarar, tedavi giderleri ve gelir kaybı bilimsel hesaplamalarla belirlenir."
+          ],
+          [
+            "Manevi tazminat, yalnızca fiziksel zararlarla değil; duygusal ve psikolojik etkilerle de ilişkilendirilir."
+          ]
+        ]
+      }
+    },
+
+
+    
+    {
+                                                         "_comment": "TİCARET HUKUKU",
+      "slug": "ticaret-hukuku",
+      "pageTitle": {
+        "bgImage": "images/ticaretbanner.jpg",
+        "h1": "TİCARET HUKUKU",
+        "breadcrumb": ["Ana Sayfa", "TİCARET HUKUKU"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/ticaret.jpg",
+          "alt": "TİCARET HUKUKU"
+        },
+        "heading": "Kurumsal Yaşamın Temelinde Hukuki Bilgelik",
+        "paragraphHtml": "Kurumsal düzenin hâkim olduğu her alanda, şirketlerin sağlıklı bir şekilde varlık göstermesi ancak hukukla uyum içinde\n\t\t\t\t\tilerlemeleriyle mümkündür. Günlük faaliyetlerde özgürce karar verebilmek, girişimciliğin ve ticari hayatın en değerli\n\t\t\t\t\tzevklerinden biridir; ancak bu özgürlük, zamanı geldiğinde yerini hukuki yükümlülüklere bırakmak zorundadır. Zira bazı\n\t\t\t\t\tanlarda, şirket menfaatini korumak için tercih edilen yoldan geri dönmek, riskli bir zevki ertelemek veya disiplin\n\t\t\t\t\tgerektiren bir sorumluluğu üstlenmek zorunludur. <br><br>\n\t\t\t\t\t\n\t\t\t\t\tBu nedenle, kurumsal hayatta kısa vadeli kazançların cazibesine kapılarak hukuki öngörüyü ihmal edenler, sonunda daha\n\t\t\t\t\tağır sonuçlarla yüzleşir. Gerekli incelemeleri yapmaktan kaçanlar, sorumluluklarını zamanında yerine getirmeyenler veya\n\t\t\t\t\tşirketin uzun vadeli istikrarını tehlikeye atanlar, kendi açılarından değil, tüm paydaşlar açısından sorun yaratırlar.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tKurumsal hukuk, aceleci davranışları değil; muhakemeyi, planlamayı ve ölçülü adım atmayı onaylar. Uyumsuzluğun getirdiği\n\t\t\t\t\tsıkıntı, kaçınılamayacak bir gerçektir; ancak bu sıkıntı, görevlerin doğru şekillendirilmesiyle gelecekteki\n\t\t\t\t\tbelirsizlikleri yok eder. Böylece şirketler, yalnızca bugünün değil yarının da güvenli zeminini oluşturur.",
+        "listColumns": [
+          [
+            "Hukuk, hiçbir şeyi amaçsızca reddetmez; yalnızca gerekli olanı vurgular.",
+            "Boşluk istemez; çünkü boşluk risk üretir."
+          ],
+          [
+            "Sorumluluktan kaçınmaz; çünkü sorumluluk kurumsal hafızayı oluşturur.",
+            "Kuralı kınamaz; çünkü kural düzeni doğurur."
+          ],
+          [
+            "Sürekliliği inkâr etmez; çünkü ticari yaşam kesintiyi değil devamlılığı ödüllendirir.",
+            "Kurumsal hukukun özü, şirketin yalnızca bugünkü değil yarınki varlığını da güvence altına alır."
+          ],
+          [
+            "Şeffaflıktan kaçınmaz; çünkü bilgi saklandıkça risk büyür, açıklık ise tüm taraflara adil zemini sunar.",
+            "Pay sahiplerinden çalışanlara kadar herkes, aynı gerçeklikte buluştuğunda kurum güç kazanır."
+          ]
+        ]
+      }
+    },
+
+
+
+
+    {
+                                                               "_comment": "ÖZEL HUKUK DAVALARI",
+      "slug": "ozel-hukuk",
+      "pageTitle": {
+        "bgImage": "images/ozel-hukuk-banner.jpg",
+        "h1": "ÖZEL HUKUK DAVALARI",
+        "breadcrumb": ["Ana Sayfa", "ÖZEL HUKUK DAVALARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/ozel-hukuk.jpg",
+          "alt": "ÖZEL HUKUK DAVALARI"
+        },
+        "heading": "Özel Hukukun Temelinde Bireysel Hakların Korunması",
+        "paragraphHtml": "Özel hukuk, bireylerin ve tüzel kişilerin birbirleriyle olan ilişkilerini düzenleyen, hak ve yükümlülüklerini belirleyen temel bir hukuk dalıdır. Bu alan, sözleşmelerden miras hukukuna, aile hukukundan borçlar hukukuna kadar geniş bir yelpazede yer alır. Özel hukukun amacı, taraflar arasındaki ilişkilerin adil, dengeli ve hukuka uygun bir şekilde yürütülmesini sağlamaktır. <br><br>\n\nBireyler ve kurumlar arasındaki etkileşimler karmaşık olabilir; bu nedenle özel hukuk, bu ilişkilerin doğru anlaşılması ve yönetilmesi için gerekli çerçeveyi sunar. Sözleşmelerin doğru hazırlanması, hakların korunması, yükümlülüklerin yerine getirilmesi gibi konular, özel hukukun temel taşlarını oluşturur. <br><br>\n\nBu nedenle özel hukuk alanında doğru adımlar atmak, bireylerin ve kurumların haklarını etkin bir şekilde korumasını sağlar. Hukuki öngörüyle hareket eden taraflar; uyuşmazlık riskini azaltır, dava süreçlerinde avantaj sağlar ve uzun vadede sürdürülebilir ilişkiler kurar.",
+        "listColumns": [
+          [
+            "Özel hukuk, bireylerin ve kurumların haklarını korur; bu nedenle her ilişki dikkatle değerlendirilir."
+          ],
+          [
+            "Sözleşmelerin doğru hazırlanması, uyuşmazlık riskini azaltır; bu nedenle her madde titizlikle incelenir."
+          ],
+          [
+            "Hak ve yükümlülüklerin net biçimde belirlenmesi, adil ilişkilerin temelidir; bu nedenle her durum özel olarak ele alınır."
+          ],
+          [
+            "Uyuşmazlıkların çözümü, tarafların menfaatlerini dengeler; bu nedenle her çözüm adil ve sürdürülebilir olmalıdır."
+          ]
+        ]
+      }
+    },
+
+
+
+
+    {
+                                                                     "_comment": "SİGORTA HUKUKU",
+      "slug": "sigorta-hukuku",
+      "pageTitle": {
+        "bgImage": "images/sigortabanner.jpg",
+        "h1": "SİGORTA HUKUKU",
+        "breadcrumb": ["Ana Sayfa", "SİGORTA HUKUKU"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/sigorta.jpg",
+          "alt": "SİGORTA HUKUKU"
+        },
+        "heading": "Sigorta Uyuşmazlıklarının Temelinde Hukuki Güvence",
+        "paragraphHtml": "Sigorta, hayatın öngörülemezliğine karşı kurulan en rasyonel korunma mekanizmasıdır. Ancak bu mekanizma, gerçek işlevini ancak tarafların hak ve yükümlülüklerinin eksiksiz anlaşıldığı ve poliçe hükümlerinin doğru yorumlandığı bir düzende yerine getirir. Çünkü sigorta, yalnızca bir güvence belgesi değil; riskin paylaşılması, zararın doğru hesaplanması ve hak sahibinin korunması üzerine kurulu hassas bir hukuki yapıdır. Küçük bir beyan hatası, eksik bir teminat maddesi, yanlış yorumlanan bir istisna veya süresi içinde yapılmamış bir bildirim, sigorta korumasının zayıflamasına ve uyuşmazlığın büyümesine neden olabilir.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tBu nedenle sigorta ilişkilerinde aceleyle verilen kararlar, çoğu zaman zararın kendisinden daha yıpratıcı sonuçlar doğurur. Poliçesini okumadan imzalayanlar, hasar anında gerekli belgeleri toplamayı ihmal edenler, ekspertiz sürecini doğru yönetemeyenler veya sigortacının teminat dışı yorumlarına karşı hakkını aramaktan çekinenler, ileride daha ciddi hak kayıplarıyla karşılaşabilir. Sigorta davalarının özelliği de burada belirginleşir: Uyuşmazlığın temelini yalnızca zarar değil, zararın hukuki çerçeve içinde nasıl değerlendirileceği belirler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tSigorta hukuku, olayın yüzeyine değil; nedenine,  kapsamına ve poliçenin mantığına bakar. Her hasarın arka planında incelenmesi gereken bir risk profili, değerlendirilmesi gereken bir sözleşme dili ve yorumlanması gereken bir hukuki yapı bulunur. Uyuşmazlık kaçınılmaz olabilir; fakat doğru hukuki yaklaşım, belirsizliği azaltır, hak sahipliğini netleştirir ve sürecin zorlayıcı yönlerini yönetilebilir kılar. Böylece sigorta, yalnızca zarar anında değil, gelecekteki risklerin yönetiminde de güçlü bir güven zemini oluşturur.",  
+        "listColumns": [
+          [
+            "Sigorta hukuku, belirsizliği sevmez; çünkü belirsizlik tazminat hakkını zayıflatır."
+          ],
+          [
+            "Poliçe hükümlerini katı kurallar değil; bilimsel ve hukuki yorum ilkeleri şekillendirir."
+          ],
+          [
+            "Hasar beyanı, sürecin temelidir; gecikme, hak kaybının ilk adımı olabilir."
+          ],
+          [
+            "Ekspertiz raporları eleştirel bakış ister; çünkü her rapor,zararın hukuki niteliğini belirler."
+          ]
+        ]  
+      }
+    },
+
+
+
+
+    {
+                                                                           "_comment": "İŞ HUKUKU DAVALARI",
+      "slug": "is-hukuku-davalari",
+      "pageTitle": {
+        "bgImage": "images/isci-davalari-banner.jpg",
+        "h1": "İŞ HUKUKU DAVALARI",
+        "breadcrumb": ["Ana Sayfa", "İŞ HUKUKU DAVALARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/isci-davaları.jpg",
+          "alt": "İŞ HUKUKU DAVALARI"
+        },
+        "heading": "İş Hukukunun Temelinde Çalışan ve İşveren Haklarının Dengesi",
+        "paragraphHtml": "İş hukuku, çalışma hayatının dinamiklerini düzenleyen, işçi ve işveren arasındaki ilişkileri dengeleyen temel bir hukuk dalıdır. Bu alan, iş sözleşmelerinden iş sağlığı ve güvenliğine, çalışma koşullarından işten çıkarmalara kadar geniş bir yelpazede yer alır. İş hukuku, tarafların hak ve yükümlülüklerini belirleyerek, çalışma ortamının adil, güvenli ve verimli bir şekilde işlemesini sağlar. <br><br>\n\nİşçi ve işveren arasındaki ilişkiler karmaşık olabilir; bu nedenle iş hukuku, bu ilişkilerin doğru anlaşılması ve yönetilmesi için gerekli çerçeveyi sunar. İş sözleşmelerinin doğru hazırlanması, çalışma koşullarının iyileştirilmesi, iş sağlığı ve güvenliğinin sağlanması gibi konular, iş hukukunun temel taşlarını oluşturur. <br><br>\n\nBu nedenle iş hukuku alanında doğru adımlar atmak, işçi ve işverenlerin haklarını etkin bir şekilde korumasını sağlar. Hukuki öngörüyle hareket eden taraflar; uyuşmazlık riskini azaltır, dava süreçlerinde avantaj sağlar ve uzun vadede sürdürülebilir çalışma ilişkileri kurar.",
+        "listColumns": [
+          [
+            "İş hukuku, çalışma ilişkilerinin adil ve dengeli olmasını sağlar; bu nedenle her durum dikkatle değerlendirilir."
+          ],
+          [
+            "İş sözleşmelerinin doğru hazırlanması, uyuşmazlık riskini azaltır; bu nedenle her madde titizlikle incelenir."
+          ],
+          [
+            "Çalışma koşullarının iyileştirilmesi, işçi ve işveren haklarının korunmasının temelidir; bu nedenle her durum özel olarak ele alınır."
+          ],
+          [
+            "Uyuşmazlıkların çözümü, tarafların menfaatlerini dengeler; bu nedenle her çözüm adil ve sürdürülebilir olmalıdır."
+          ]
+        ]
+      }
+    },
+
+
+    
+    {
+                                                                      "_comment": "İCRA VE İFLAS HUKUKU",
+      "slug": "icra-ve-iflas-hukuku",
+      "pageTitle": {
+        "bgImage": "images/icra-iflas-banner.jpg",
+        "h1": "İCRA VE İFLAS HUKUKU",
+        "breadcrumb": ["Ana Sayfa", "İCRA VE İFLAS HUKUKU"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/icra-iflas.jpg",
+          "alt": "İCRA VE İFLAS HUKUKU"
+        },
+        "heading": "İcra ve İflas Hukukunun Temelinde Hakların Etkin Korunması",
+        "paragraphHtml": "İcra ve iflas hukuku, borç-alacak ilişkilerinin en kritik anlarında devreye girer. Alacaklıların haklarını etkin bir şekilde koruması ve borçluların yükümlülüklerini yerine getirmesi için gerekli hukuki çerçeveyi sağlar. Ancak bu süreçler, yalnızca hukuki bilgi değil; aynı zamanda stratejik planlama, zamanlama ve dikkatli uygulama gerektirir. Çünkü icra ve iflas işlemlerinde yapılacak küçük bir hata, tarafların hak kaybına uğramasına veya sürecin uzamasına neden olabilir.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tBu nedenle icra ve iflas süreçlerinde aceleyle hareket etmek, çoğu zaman zararın kendisinden daha büyük sonuçlar doğurur. Gerekli belgeleri zamanında sunmayanlar, yasal prosedürleri doğru takip etmeyenler veya alacaklarını etkin bir şekilde tahsil edemeyenler, sonunda daha ciddi hak kayıplarıyla karşılaşabilir. İcra ve iflas davalarının özelliği de burada belirginleşir: Uyuşmazlığın temelini yalnızca borç değil, borcun hukuki çerçeve içinde nasıl yönetileceği belirler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tİcra ve iflas hukuku, olayın yüzeyine değil; nedenine, kapsamına ve yasal prosedürlerin mantığına bakar. Her alacak talebinin arka planında incelenmesi gereken bir borç profili, değerlendirilmesi gereken yasal adımlar ve uygulanması gereken hukuki süreçler bulunur. Uyuşmazlık kaçınılmaz olabilir; fakat doğru hukuki yaklaşım, belirsizliği azaltır, hak sahipliğini netleştirir ve sürecin zorlayıcı yönlerini yönetilebilir kılar. Böylece taraflar, yalnızca bugünün değil, gelecekteki mali ilişkilerinin de güvenli zeminini oluşturur.",
+        "listColumns": [
+          [
+            "İcra ve iflas hukuku, belirsizliği sevmez; çünkü belirsizlik alacak hakkını zayıflatır."
+          ],
+          [
+            "Yasal prosedürleri katı kurallar değil; bilimsel ve hukuki yorum ilkeleri şekillendirir."
+          ],
+          [
+            "Belgelerin zamanında sunulması, sürecin temelidir; gecikme, hak kaybının ilk adımı olabilir."
+          ],
+          [
+            "Her alacak talebi, hukuki niteliğini belirler; bu nedenle doğru sınıflandırma önemlidir."
+          ]
+        ]
+      }
+    },
+
+
+
+
+    {
+                                                                      "_comment": "İŞÇİ ALACAKLARI DAVALARI",
+      "slug": "isci-alacaklari-davalari",
+      "pageTitle": {
+        "bgImage": "images/isci-alacaklari-banner.jpg",
+        "h1": "İŞÇİ ALACAKLARI DAVALARI",
+        "breadcrumb": ["Ana Sayfa", "İŞÇİ ALACAKLARI DAVALARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/isci-alacaklari.jpg",
+          "alt": "İŞÇİ ALACAKLARI DAVALARI"
+        },
+        "heading": "İşçi Alacakları Davalarının Temelinde Hakların Bilinçli Korunması",
+        "paragraphHtml": "İşçi alacakları davaları, işveren-işçi ilişkilerinin en hassas noktalarında ortaya çıkar. İşçilerin haklarını etkin bir şekilde koruması ve işverenlerin yükümlülüklerini yerine getirmesi için gerekli hukuki çerçeveyi sağlar. Ancak bu süreçler, yalnızca hukuki bilgi değil; aynı zamanda stratejik planlama, zamanlama ve dikkatli uygulama gerektirir. Çünkü işçi alacakları davalarında yapılacak küçük bir hata, tarafların hak kaybına uğramasına veya sürecin uzamasına neden olabilir.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tBu nedenle işçi alacakları davalarında aceleyle hareket etmek, çoğu zaman zararın kendisinden daha büyük sonuçlar doğurur. Gerekli belgeleri zamanında sunmayanlar, yasal prosedürleri doğru takip etmeyenler veya alacaklarını etkin bir şekilde tahsil edemeyenler, sonunda daha ciddi hak kayıplarıyla karşılaşabilir. İşçi alacakları davalarının özelliği de burada belirginleşir: Uyuşmazlığın temelini yalnızca borç değil, borcun hukuki çerçeve içinde nasıl yönetileceği belirler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tİşçi alacakları hukuku, olayın yüzeyine değil; nedenine, kapsamına ve yasal prosedürlerin mantığına bakar. Her alacak talebinin arka planında incelenmesi gereken bir borç profili, değerlendirilmesi gereken yasal adımlar ve uygulanması gereken hukuki  süreçler bulunur. Uyuşmazlık kaçınılmaz olabilir; fakat doğru hukuki yaklaşım, belirsizliği azaltır, hak sahipliğini netleştirir ve sürecin zorlayıcı yönlerini yönetilebilir kılar. Böylece taraflar, yalnızca bugünün değil, gelecekteki mali ilişkilerinin de güvenli zeminini oluşturur.", 
+        "listColumns": [
+          [
+            "İşçi alacakları hukuku, belirsizliği sevmez; çünkü belirsizlik alacak hakkını zayıflatır."
+          ],
+          [
+            "Yasal prosedürleri katı kurallar değil; bilimsel ve hukuki yorum ilkeleri şekillendirir."
+          ],
+          [
+            "Belgelerin zamanında sunulması, sürecin temelidir; gecikme, hak kaybının ilk adımı olabilir."
+          ],
+          [
+            "Her alacak talebi, hukuki niteliğini belirler; bu nedenle doğru sınıflandırma önemlidir."
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+                                                                      "_comment": "AİLE HUKUKU DAVALARI",
+      "slug": "aile-hukuku-davalari",
+      "pageTitle": {
+        "bgImage": "images/ailebanner.jpg",
+        "h1": "AİLE HUKUKU DAVALARI",
+        "breadcrumb": ["Ana Sayfa", "AİLE HUKUKU DAVALARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/aile.jpg",
+          "alt": "AİLE HUKUKU DAVALARI"
+        },
+        "heading": "Aile Hukukunun Temelinde Denge ve Hukuki İhtimam",
+        "paragraphHtml": "Aile hukuku, hukukun en hassas alanlarından biridir; çünkü burada yalnızca haklar değil, insanların yaşam düzeni, duygusal dünyası, gelecek planları ve kimi zaman çocukların kaderi söz konusudur. Bu nedenle aile davalarında doğru yaklaşım, yalnızca hukuki çerçeveyi bilmek değil; süreci öngörülebilir, güvenli ve saygılı bir zemine oturtmaktır. Zira aile içinde yaşanan bir anlaşmazlık, çoğu zaman bir hukuki ihtilaftan çok daha fazlasını taşır: Geçmişin alışkanlıklarını, bugün yaşanan belirsizlikleri ve geleceğe dair kaygıları beraberinde getirir.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tAceleyle verilen kararlar, öfkeyle yapılan başvurular veya yeterince değerlendirilmemiş talepler, tarafların uzun vadeli haklarını zedeleyebilir. Boşanma sürecinde mal paylaşımının ayrıntılarını göz ardı edenler, velayet konusunda duygusal baskının yönlendiriciliğine kapılanlar, nafaka ve tazminat taleplerini bilinçli bir hesaplama olmaksızın belirleyenler, sonrasında daha ağır sonuçlarla karşılaşabilir. Aile davaları, kısa vadeli bir rahatlamadan ziyade uzun vadeli bir düzen inşa etmeyi gerektirir.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tAile hukuku, tarafları çatışmanın merkezine değil; çözümün çerçevesine yerleştirir. Her aile dinamiği benzersizdir; bu nedenle her davanın kendine özgü bir hikâyesi, delilleri, beklentileri ve hukuki yükleri vardır. Uyuşmazlık kaçınılmaz olabilir; ancak doğru hukuki özen, belirsizliği azaltır, duygusal gerginliği yönetir ve hakkaniyetli bir sonuca giden yolu açar. Böylece aileler, yalnızca bugün için değil, gelecekte de güvenli bir düzen kurma imkânı bulur.",
+        "listColumns": [
+          [
+            "Aile hukuku, duygusal tepkileri değil; çölçülü ve düşünülmüş adımları esas alır."
+          ],
+          ["Netlik pazarlık gücüdür; metin güçlendikçe risk düşer."],
+          [
+            "Mal paylaşımı, yüzeysel değil; matematiksel ve hukuki doğrulukla değerlendirilir."
+          ],
+          [
+            "Nafaka ve tazminat, kırgınlıkların değil; ekonomik gerçeklerin ışığında belirlenir."
+          ]
+        ]
+      }
+    },
+
+
+
+
+    {
+                                                                      "_comment": "GAYRİMENKUL HUKUKU",
+      "slug": "gayrimenkul-hukuku",
+      "pageTitle": {
+        "bgImage": "images/gayrimenkulbanner.jpg",
+        "h1": "GAYRİMENKUL HUKUKU",
+        "breadcrumb": ["Ana Sayfa", "GAYRİMENKUL HUKUKU"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/gayrimenkul.jpg",
+          "alt": "GAYRİMENKUL HUKUKU"
+        },
+        "heading": "Gayrimenkul Uyuşmazlıklarının Temelinde Hukuki Sağduyu",
+        "paragraphHtml": "Gayrimenkul, yalnızca bir taşınmazdan ibaret değildir; bireylerin ve şirketlerin ekonomik geleceğini taşıyan, kimi zaman nesiller boyunca aktarılan bir varlık alanıdır. Bu nedenle, gayrimenkul işlemlerinin güven içinde yürütülmesi, yalnızca hukuka uygun davranmakla değil, aynı zamanda hukuki öngörüyü doğru kullanmakla mümkündür. Tapu kaydındaki küçük bir eksiklik, sözleşmedeki masum görünen bir ifade, paylaşımın ertelenmiş bir detayı ya da komşuluk hakkına ilişkin ihmal edilmiş bir sınır, zaman içinde büyük hukuki çatışmalara dönüşebilir. Gayrimenkul hukukunun ağırlığı da tam burada hissedilir: Görünmeyeni görmek, ileride doğacak riskleri bugün yönetmek ve hak kaybı oluşmadan önce doğru adımı atmaktır.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tBu nedenle gayrimenkul alanında kısa vadeli çözümlere güvenmek, çoğu zaman uzun vadeli zararlara kapı aralar. Satış vaadi sözleşmesini incelemeden imzalayanlar, riskli yapı tespit sürecini doğru değerlendirmeyenler, miras paylaşımında gerekli hukuki dengeyi kurmayanlar veya kira ilişkilerinde sorumluluklarını netleştirmeyenler, sonunda hukuki bir çatışmanın içinden çıkmakta zorlanabilir. Zira gayrimenkul davaları, gecikmiş bir müdahalenin maliyetini en çok hissettiren dava türlerinden biridir. Tapu iptali ve tescil, kamulaştırma, ortaklığın giderilmesi, el atmanın önlenmesi veya kira uyuşmazlıkları gibi süreçlerde, zaman kaybı yalnızca süreci değil, varlığın değerini de etkiler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tGayrimenkul hukukunun özünde acelecilik değil; ölçülülük, inceleme, doğrulama ve sabır vardır. Her taşınmazın kendine özgü bir hikâyesi, geçmişten bugüne taşıdığı hukuki yükleri ve geleceğe uzanan potansiyel riskleri bulunur. Uyuşmazlıkların ortaya çıkması kaçınılmaz olabilir; ancak doğru hukuki çalışmayla bu uyuşmazlıkların belirsizliğe dönüşmesi engellenebilir. Böylece mülk sahipleri, yatırımcılar ve tüm paydaşlar yalnızca bugünün değil, yarının da güvenli zeminini oluşturur.",
+        "listColumns": [
+          [
+            "Gayrimenkul hukuku, belirsizliği sevmez; çünkü belirsizlik mülkiyet hakkının değerini aşındırır."
+          ],
+          [
+            "Hak kaybı riskini görmezden gelmez; detaylara gösterilen özen gayrimenkulün gerçek güvenliğini sağlar."
+          ],
+          [
+            "Sözleşmeyi yalnızca bir metin olarak değil; ileride doğacak tüm hak ve yükümlülüklerin temeli olarak görür."
+          ],
+          [
+            "Tapu kaydındaki her bilgi, hukuki hafızanın bir parçasıdır; bu nedenle eksiklik değil, tutarlılık arar."
+          ]
+        ]
+      }
+    },
+
+
+    {
+                                                                      "_comment": "KENTSEL DÖNÜŞÜM SÜREÇLERİ VE UYUŞMAZLIKLARI",
+      "slug": "kentsel-donusum-uyusmazliklari",
+      "pageTitle": {
+        "bgImage": "images/kentsel-donusum-banner.jpg",
+        "h1": "KENTSEL DÖNÜŞÜM SÜREÇLERİ VE UYUŞMAZLIKLARI",
+        "breadcrumb": ["Ana Sayfa", "KENTSEL DÖNÜŞÜM SÜREÇLERİ VE UYUŞMAZLIKLARI"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/kentsel-donusum.jpg",
+          "alt": "KENTSEL DÖNÜŞÜM SÜREÇLERİ VE UYUŞMAZLIKLARI"
+        },
+        "heading": "Kentsel Dönüşüm Süreçlerinin Temelinde Hukuki Rehberlik",
+        "paragraphHtml": "Kentsel dönüşüm, şehirlerin modernleşmesi, yaşam kalitesinin artırılması ve sürdürülebilir kentleşme hedefleri doğrultusunda önemli bir adımdır. Ancak bu süreç, yalnızca fiziksel değişikliklerle değil; aynı zamanda hukuki düzenlemeler, mülkiyet hakları, kamulaştırma süreçleri ve paydaşlar arasındaki ilişkilerin doğru yönetilmesiyle de şekillenir. Kentsel dönüşüm projelerinde, hak sahiplerinin haklarının korunması, tazminat süreçlerinin adil bir şekilde yürütülmesi ve yasal prosedürlerin eksiksiz takip edilmesi büyük önem taşır. <br><br>\n\nKentsel dönüşüm süreçlerinde aceleyle verilen kararlar, çoğu zaman tarafların hak kaybına uğramasına veya sürecin uzamasına neden olabilir. Gerekli hukuki incelemeleri yapmayanlar, yasal prosedürleri doğru takip etmeyenler veya haklarını etkin bir şekilde savunamayanlar, sonunda daha ciddi hak kayıplarıyla karşılaşabilir. Kentsel dönüşüm davalarının özelliği de burada belirginleşir: Uyuşmazlığın temelini yalnızca fiziksel değişiklikler değil, bu değişikliklerin hukuki çerçeve içinde nasıl yönetileceği belirler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tKentsel dönüşüm hukuku, olayın yüzeyine değil; nedenine, kapsamına ve yasal prosedürlerin mantığına bakar. Her projenin arka planında incelenmesi gereken bir mülkiyet profili, değerlendirilmesi gereken yasal adımlar ve uygulanması gereken hukuki süreçler bulunur. Uyuşmazlık kaçınılmaz olabilir; fakat doğru hukuki yaklaşım, belirsizliği azaltır, hak sahipliğini netleştirir ve sürecin zorlayıcı yönlerini yönetilebilir kılar. Böylece taraflar, yalnızca bugünün değil, gelecekteki kentsel gelişimlerinin de güvenli zeminini oluşturur.",
+        "listColumns": [
+          [
+            "Kentsel dönüşüm hukuku, belirsizliği sevmez; çünkü belirsizlik mülkiyet hakkının değerini zayıflatır."
+          ],
+          [
+            "Yasal prosedürleri katı kurallar değil; bilimsel ve hukuki yorum ilkeleri şekillendirir."
+          ],
+          [
+            "Hak sahiplerinin haklarını etkin bir şekilde savunması, sürecin temelidir; gecikme, hak kaybının ilk adımı olabilir."
+          ],
+          [
+            "Her kentsel dönüşüm projesi, hukuki niteliğini belirler; bu nedenle doğru sınıflandırma önemlidir."
+          ]
+        ]   
+     }  
+
+    },
+
+    {
+                                                                      "_comment": "KAT MALİKLERİNİN YÜKÜMLÜLÜKLERİ",
+      "slug": "kat-maliklerinin-yukumlukleri",
+      "pageTitle": {
+        "bgImage": "images/kat-malikleri-banner.jpg",
+        "h1": "KAT MALİKLERİNİN YÜKÜMLÜLÜKLERİ",
+        "breadcrumb": ["Ana Sayfa", "KAT MALİKLERİNİN YÜKÜMLÜLÜKLERİ"]
+      },
+      "servicesDetail": {
+        "heroImage": {
+          "src": "images/kat-malikleri.jpg",
+          "alt": "KAT MALİKLERİNİN YÜKÜMLÜLÜKLERİ"
+        },
+        "heading": "Kat Maliklerinin Yükümlülüklerinin Temelinde Hukuki Bilinç",
+        "paragraphHtml": "Kat malikleri, ortak yaşam alanlarında sahip oldukları hakların yanı sıra, belirli yükümlülükleri de yerine getirmekle sorumludurlar. Bu yükümlülükler, apartman yönetimi, ortak giderlerin paylaşımı, bakım ve onarım işleri gibi konuları kapsar. Kat malikleri arasındaki ilişkilerin sağlıklı bir şekilde yürütülmesi, yalnızca bireysel hakların korunmasıyla değil; aynı zamanda ortak sorumlulukların da bilinçli bir şekilde yerine getirilmesiyle mümkündür. <br><br>\n\nKat malikleri, yükümlülüklerini yerine getirmeyenler, ortak karar alma süreçlerine katılmayanlar veya apartman yönetimiyle işbirliği yapmayanlar, sonunda hukuki sorunlarla karşılaşabilir. Kat malikleri davalarının özelliği de burada belirginleşir: Uyuşmazlığın temelini yalnızca bireysel haklar değil, bu hakların hukuki çerçeve içinde nasıl yönetileceği belirler.\n\t\t\t\t\t<br><br>\n\t\t\t\t\tKat malikleri hukuku, olayın yüzeyine değil; nedenine, kapsamına ve yasal prosedürlerin mantığına bakar. Her apartmanın arka planında incelenmesi gereken bir mülkiyet profili, değerlendirilmesi gereken yasal adımlar ve uygulanması gereken hukuki süreçler bulunur. Uyuşmazlık kaçınılmaz olabilir; fakat doğru hukuki yaklaşım, belirsizliği azaltır, hak sahipliğini netleştirir ve sürecin zorlayıcı yönlerini yönetilebilir kılar. Böylece kat malikleri, yalnızca bugünün değil, gelecekteki ortak yaşamlarının da güvenli zeminini oluşturur.",
+        "listColumns": [
+          [
+            "Kat malikleri hukuku, belirsizliği sevmez; çünkü belirsizlik ortak yaşam hakkının değerini zayıflatır."
+          ],
+          [
+            "Yasal prosedürleri katı kurallar değil; bilimsel ve hukuki yorum ilkeleri şekillendirir."
+          ],
+          [
+            "Ortak sorumlulukların bilinçli bir şekilde yerine getirilmesi, sürecin temelidir; gecikme, hak kaybının ilk adımı olabilir."
+          ],
+          [
+            "Her apartmanın durumu, hukuki niteliğini belirler; bu nedenle doğru sınıflandırma önemlidir."
+          ]
+        ]   
+     }  
+
+    }
+  ]
+}
+
+
