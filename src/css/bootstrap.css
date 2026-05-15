@@ -6084,6 +6084,10 @@ button.bg-dark:hover {
     -ms-flex-pack: distribute !important;
     justify-content: space-around !important;
   }
+  .justify-self-center {
+    -ms-flex-pack: center !important;
+    justify-self: center !important;
+  }
   .align-items-sm-start {
     -ms-flex-align: start !important;
     align-items: flex-start !important;
