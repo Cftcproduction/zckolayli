@@ -299,6 +299,8 @@ function buildServicePage(templateHtml, page) {
   html = removeServicesLoader(html);
   html = fixInternalLinks(html);
   html = fixAssetPaths(html);
+  html = html.replace(/\sjs-loading/g, "");
+  html = html.replace(/<div id="pagePreloader"[\s\S]*?<\/div>\s*<\/div>/i, "");
 
   html = updateHeadMeta(html, {
     title: page.seo?.title || `${h1} | ${BRAND_TITLE}`,
@@ -306,13 +308,18 @@ function buildServicePage(templateHtml, page) {
     canonical,
     ogImage: page.servicesDetail?.heroImage?.src ? `${SITE_URL}/${page.servicesDetail.heroImage.src}` : `${SITE_URL}/images/logo-zck.svg`,
   });
+  function toRootAsset(value = "") {
+    if (!value) return "";
+    if (value.startsWith("http")) return value;
+    if (value.startsWith("/")) return value;
+    return "/" + value.replace(/^\/+/, "");
+  }
+  html = setBackgroundImage(html, "pageTitleSection", toRootAsset(page.pageTitle?.bgImage));
 
-  html = setBackgroundImage(html, "pageTitleSection", page.pageTitle?.bgImage);
+  html = replaceImageById(html, "servicesHeroImage", toRootAsset(page.servicesDetail?.heroImage?.src || ""), page.servicesDetail?.heroImage?.alt || h1);
 
   html = replaceContentById(html, "pageTitleH1", escapeHtml(h1));
   html = replaceContentById(html, "pageBreadcrumb", renderBreadcrumb(page.pageTitle?.breadcrumb || ["Ana Sayfa", h1]));
-
-  html = replaceImageById(html, "servicesHeroImage", page.servicesDetail?.heroImage?.src || "", page.servicesDetail?.heroImage?.alt || h1);
 
   html = replaceContentById(html, "servicesHeading", escapeHtml(page.servicesDetail?.heading || ""));
 
