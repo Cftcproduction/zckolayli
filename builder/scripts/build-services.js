@@ -57,6 +57,12 @@ const staticPages = [
     description: "Hukuki bilgilendirme yazıları ve güncel içerikler.",
   },
   {
+    input: path.join(SRC_DIR, "blog-detail.html"),
+    output: "blog/isten-cikarilan-calisanin-haklari-nelerdir",
+    title: `${BRAND_TITLE} | İşten Çıkarılan Çalışanın Hakları Nelerdir?`,
+    description: "İşten çıkarılan çalışanların kıdem tazminatı, ihbar tazminatı ve dava hakları hakkında hukuki bilgilendirme.",
+  },
+  {
     input: path.join(SRC_DIR, "payment.html"),
     output: "odeme",
     title: `${BRAND_TITLE} | Online Ödeme`,
@@ -191,6 +197,7 @@ function fixInternalLinks(html) {
     "about.html": "/hakkimizda/",
     "contact.html": "/iletisim/",
     "blog.html": "/blog/",
+    "blog-detail.html": "/blog/isten-cikarilan-calisanin-haklari-nelerdir/",
     "payment.html": "/odeme/",
     "services-template.html?page=": `/uzmanliklar/`,
   };
@@ -199,6 +206,7 @@ function fixInternalLinks(html) {
   html = html.replace(/href=["']about\.html["']/g, `href="/hakkimizda/"`);
   html = html.replace(/href=["']contact\.html["']/g, `href="/iletisim/"`);
   html = html.replace(/href=["']blog\.html["']/g, `href="/blog/"`);
+  html = html.replace(/href=["']blog-detail\.html["']/g, `href="/blog/isten-cikarilan-calisanin-haklari-nelerdir/"`);
   html = html.replace(/href=["']payment\.html["']/g, `href="/odeme/"`);
 
   html = html.replace(/href=["']services-template\.html\?page=([^"']+)["']/g, function (_, slug) {
